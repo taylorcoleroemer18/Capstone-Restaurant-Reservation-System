@@ -49,6 +49,7 @@ API Documentation: [API](https://github.com/taylorcoleroemer18/restaurant-reserv
 - Express
 - NodeJS
 - Knex
+- PostgreSQL
 
 ## Installation
 1. Fork and clone this repository.
